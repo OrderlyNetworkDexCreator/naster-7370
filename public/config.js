@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/niggasterx",
   "VITE_SEO_SITE_NAME": "NASTERDEX",
   "VITE_SEO_SITE_DESCRIPTION": "The real crime dex.",
-  "VITE_SEO_SITE_URL": "https://nasterdex.fun",
+  "VITE_SEO_SITE_URL": "https://niggasterdex.fun",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@niggasterx",
@@ -34,5 +34,5 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#F7D4AB\",\"downColor\":\"#301853\",\"pnlUpColor\":\"#F7D4AB\",\"pnlDownColor\":\"#301853\",\"chartBG\":\"#2d2f34\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#F7D4AB\",\"downColor\":\"#878787\",\"pnlUpColor\":\"#F7D4AB\",\"pnlDownColor\":\"#878787\",\"chartBG\":\"#15131D\"}"
 };
